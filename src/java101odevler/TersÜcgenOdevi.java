@@ -14,7 +14,7 @@ public class TersÜcgenOdevi {
            }
            System.out.println();
        }
-       
+         
        
        
        
