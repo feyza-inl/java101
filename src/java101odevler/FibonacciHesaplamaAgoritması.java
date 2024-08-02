@@ -16,7 +16,7 @@ public class FibonacciHesaplamaAgoritması {
             ucuncu=birinci+ikinci;
           System.out.print(" "+ucuncu);
       }
-      System.out.print("\n");
+      System.out.print("\n");      
         
         
         
